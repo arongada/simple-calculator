@@ -48,4 +48,4 @@ while True:
 
 #hiba
     else:
-        print("Ervenytelen!")
+        print("Érvénytelen!")
