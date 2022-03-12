@@ -41,8 +41,8 @@ while True:
             print(num1, "/", num2, "=", oszt(num1, num2))
 #--folyamat vege--
 #--kovetkezo szamolas--
-        next_calculation = input("Következő számolás (igen/nem): ")
-        if next_calculation == "nem":
+        kovetkezo_szamolas = input("Következő számolás (igen/nem): ")
+        if kovetkezo_szamolas == "nem":
           break
 #--kovektezo szamolas--
 
